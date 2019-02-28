@@ -1,0 +1,90 @@
+bn_shift.o: bn_shift.c /not/exist/usr/include/stdc-predef.h \
+ ../../src/include-glibc/glibc-bugs.h /not/exist/usr/include/features.h \
+ /not/exist/usr/include/sys/cdefs.h \
+ /not/exist/usr/include/bits/wordsize.h \
+ /not/exist/usr/include/gnu/stubs.h \
+ /not/exist/usr/include/gnu/stubs-64-v1.h \
+ /not/exist/usr/include/sys/types.h /not/exist/usr/include/bits/types.h \
+ /not/exist/usr/include/bits/typesizes.h /not/exist/usr/include/time.h \
+ /opt/fsl-qoriq/2.0/sysroots/i686-fslsdk-linux/usr/lib/powerpc64-fsl-linux/gcc/powerpc64-fsl-linux/4.9.2/include/stddef.h \
+ /not/exist/usr/include/endian.h /not/exist/usr/include/bits/endian.h \
+ /not/exist/usr/include/bits/byteswap.h \
+ /not/exist/usr/include/bits/byteswap-16.h \
+ /not/exist/usr/include/sys/select.h /not/exist/usr/include/bits/select.h \
+ /not/exist/usr/include/bits/sigset.h /not/exist/usr/include/bits/time.h \
+ /not/exist/usr/include/sys/sysmacros.h \
+ /not/exist/usr/include/bits/pthreadtypes.h \
+ ../.././src/include-glibc/glibc-bugs.h bn_shift.h bn.h \
+ /not/exist/usr/include/stdlib.h /not/exist/usr/include/bits/waitflags.h \
+ /not/exist/usr/include/bits/waitstatus.h \
+ /not/exist/usr/include/xlocale.h /not/exist/usr/include/alloca.h \
+ /not/exist/usr/include/bits/stdlib-float.h \
+ /not/exist/usr/include/string.h bn_lib.h ec_bn.h
+
+/not/exist/usr/include/stdc-predef.h:
+
+../../src/include-glibc/glibc-bugs.h:
+
+/not/exist/usr/include/features.h:
+
+/not/exist/usr/include/sys/cdefs.h:
+
+/not/exist/usr/include/bits/wordsize.h:
+
+/not/exist/usr/include/gnu/stubs.h:
+
+/not/exist/usr/include/gnu/stubs-64-v1.h:
+
+/not/exist/usr/include/sys/types.h:
+
+/not/exist/usr/include/bits/types.h:
+
+/not/exist/usr/include/bits/typesizes.h:
+
+/not/exist/usr/include/time.h:
+
+/opt/fsl-qoriq/2.0/sysroots/i686-fslsdk-linux/usr/lib/powerpc64-fsl-linux/gcc/powerpc64-fsl-linux/4.9.2/include/stddef.h:
+
+/not/exist/usr/include/endian.h:
+
+/not/exist/usr/include/bits/endian.h:
+
+/not/exist/usr/include/bits/byteswap.h:
+
+/not/exist/usr/include/bits/byteswap-16.h:
+
+/not/exist/usr/include/sys/select.h:
+
+/not/exist/usr/include/bits/select.h:
+
+/not/exist/usr/include/bits/sigset.h:
+
+/not/exist/usr/include/bits/time.h:
+
+/not/exist/usr/include/sys/sysmacros.h:
+
+/not/exist/usr/include/bits/pthreadtypes.h:
+
+../.././src/include-glibc/glibc-bugs.h:
+
+bn_shift.h:
+
+bn.h:
+
+/not/exist/usr/include/stdlib.h:
+
+/not/exist/usr/include/bits/waitflags.h:
+
+/not/exist/usr/include/bits/waitstatus.h:
+
+/not/exist/usr/include/xlocale.h:
+
+/not/exist/usr/include/alloca.h:
+
+/not/exist/usr/include/bits/stdlib-float.h:
+
+/not/exist/usr/include/string.h:
+
+bn_lib.h:
+
+ec_bn.h:
